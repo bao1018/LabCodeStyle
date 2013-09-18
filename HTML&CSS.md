@@ -30,8 +30,6 @@
 
 > All code in any code base should look like a single person typed it, no matter how many people contributed.
 
-This means strictly enforcing these agreed upon guidelines at all times. For additions or contributions, please [file an issue on GitHub](https://github.com/mdo/code-guide).
-
 
 
 ----------
