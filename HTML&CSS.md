@@ -19,9 +19,6 @@
     * [Comments](#comments)
     * [Classes](#classes)
     * [Selectors](#selectors)
-  * [Organization](#organization)
-* [Writing copy](#copy)
-  * [Sentence case](#sentence-case)
 
 
 
