@@ -10,8 +10,8 @@
 ----------
 ###Below programming language are considered
 
- - Ruby
- - Rails
- - Javascript
- - HTML, CSS
+ - [Ruby](https://github.com/bao1018/LabCodeStyle/blob/master/Ruby.md)
+ - [Rails](https://github.com/bao1018/LabCodeStyle/blob/master/Rails.md)
+ - [Javascript](https://github.com/bao1018/LabCodeStyle/blob/master/Javascript.md)
+ - [Html & CSS](https://github.com/bao1018/LabCodeStyle/blob/master/HTML%26CSS.md)
 

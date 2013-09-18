@@ -2,7 +2,6 @@
 
 ## Table of contents
 
-* [Golden rule](#golden-rule)
 * [HTML](#html)
   * [Syntax](#html-syntax)
   * [HTML5 doctype](#html5-doctype)
@@ -19,20 +18,6 @@
     * [Comments](#comments)
     * [Classes](#classes)
     * [Selectors](#selectors)
-
-
-
-----------
-
-
-
-## Golden rule
-
-> All code in any code base should look like a single person typed it, no matter how many people contributed.
-
-
-
-----------
 
 
 
