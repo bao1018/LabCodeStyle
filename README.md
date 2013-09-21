@@ -1,4 +1,4 @@
-#Code style for the PwC Lab
+#Code style for the PwC Emerging Tech Lab's Projects
 ## Draft version
 ----------
 
@@ -8,7 +8,7 @@
 > All code in any code base should look like a single person typed it, no matter how many people contributed.
 
 ----------
-###Below programming language are considered
+###Programming languages
 
  - [Ruby](https://github.com/bao1018/LabCodeStyle/blob/master/Ruby.md)
  - [Rails](https://github.com/bao1018/LabCodeStyle/blob/master/Rails.md)
