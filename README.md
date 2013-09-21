@@ -1,4 +1,4 @@
-#Code style for the PwC Emerging Tech Lab's Projects
+#Code style for PwC's Emerging Tech Lab's Projects
 ## Draft version
 ----------
 
